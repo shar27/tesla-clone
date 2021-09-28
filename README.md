@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Thoughts
+
+A wonderful project that helped me grasp more about the power and efficieny with React. Styled components and material ui are wonderful features and redux was very intresting to learn about. My css knowledge also increased. 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
